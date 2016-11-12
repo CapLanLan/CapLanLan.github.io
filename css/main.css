@@ -16,4 +16,21 @@
   background-color: #49ff71;
   text-align: center;
   font-size: 300%;
+  color: #ff4949;
+}
+
+a:link {
+  color: #ff5454;
+}
+
+a:visited {
+  color:  #d632ff;
+}
+
+a:hover {
+  color: #00ff0c;
+}
+
+a:active {
+  color: #ff5454;
 }
