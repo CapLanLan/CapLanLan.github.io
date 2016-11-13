@@ -4,3 +4,26 @@
   background-color: #2dffa4;
   font-family: 'Permanent Marker', cursive;
 }
+
+.list {
+  text-align: center;
+  font-size: 200%;
+  font-family: 'Rock Salt', cursive;
+  background-color: #30ffbd;
+}
+
+a:link {
+  color: #a163ff;
+}
+
+a:visited {
+  color:  #d632ff;
+}
+
+a:hover {
+  color: hotpink;
+}
+
+a:active {
+  color: #ff5454;
+}
