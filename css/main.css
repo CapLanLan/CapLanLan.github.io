@@ -63,9 +63,9 @@ li a:hover:not(.active) {
 
 h3 {
   color: #ffffff;
-  padding-left: 20px;
+  padding-left: 0px;
   font-family: 'Chewy', cursive;
-  font-size: 25px;
+  font-size: 50px;
   text-align: center;
 }
 #conspiracytitle {
@@ -79,7 +79,7 @@ h3 {
   color: #ffffff;
   position: relative;
   top: 80px;
-  left: 10px;
+  left: 0px;
   font-family: 'Chewy', cursive;
   font-size: 40px;
 }
