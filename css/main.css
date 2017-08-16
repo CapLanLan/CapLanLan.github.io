@@ -1,0 +1,41 @@
+body {margin:0;}
+
+{
+    font-family: 'Chewy', cursive;
+
+    font-family: 'Righteous', cursive;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #42dff4;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    font-family: 'Chewy', cursive;
+}
+
+li {
+    float: left;
+    border-right: 4px solid #ff85a4;
+
+}
+
+li a {
+    display: block;
+    color: #ff85a4;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+    background-color: #b5bcc0;
+}
