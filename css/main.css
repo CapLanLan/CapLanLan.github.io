@@ -44,9 +44,11 @@ li a:hover:not(.active) {
 
 h1 {
   color: #ffffff;
-  padding-top: 100;
-  padding-left: 40;
+position: relative;
+top: 80px;
+left: 40px;
   font-family: 'Chewy', cursive;
+  font-size: 40px;
 }
 
 #video1 {
@@ -61,8 +63,10 @@ h3 {
   color: #ffffff;
   padding-left: 20px;
   font-family: 'Chewy', cursive;
+  font-size: 25px;
 }
 #conspiracytitle {
   position: relative;
   top: 10px;
+  padding-top: 60px;
 }
