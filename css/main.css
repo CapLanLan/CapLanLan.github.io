@@ -51,7 +51,8 @@ left: 40px;
   font-size: 40px;
 }
 
-#video1 {
+
+.videos {
   position: relative;
   top: 0px;
   left: 10px;
@@ -59,6 +60,7 @@ left: 40px;
   border-width: 5px;
   border-color: #ffffff;
 }
+
 h3 {
   color: #ffffff;
   padding-left: 20px;
